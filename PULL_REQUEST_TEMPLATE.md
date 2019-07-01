@@ -19,6 +19,8 @@ to ensure the following steps have been taken:
     "twitter": "https://twitter.com/token",
     "telegram": "https://t.me/token",
     "medium": "https://medium.com/token"
+    "GitHub": ""
+    "Documentation": ""
   },
   "other": {
     "****": "****",

@@ -9,7 +9,7 @@ This repository is used as information source for [BEP2](https://github.com/bina
 - Blog (media)
 - Github
 
-## How to generate address for BEP2 (Binance DEX based) token
+## Steps to Submit BEP2 (Binance DEX based) token info
 1. Get your token symbol from:  https://dex.binance.org/api/v1/tokens
 2. Prepare basic info about your token
-3. Upload an image
+3. Follow the guide in `PULL_REQUEST_TEMPLATE.md` to upload the logo image and other info by creating a new Pull request

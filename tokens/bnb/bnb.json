@@ -1,7 +1,10 @@
 {
   "description": "binance chain native token",
-  "website": "https://token.io",
   "contact": {
-    "website": "https://binance.com"
+    "twitter": "https://twitter.com/binance",
+    "telegram": "https://t.me/token",
+    "medium": "https://medium.com/token"
+    "GitHub": ""
+    "Documentation": ""
   }
 }

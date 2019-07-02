@@ -11,19 +11,42 @@ to ensure the following steps have been taken:
 
 3. Upload a json file for additional info. File name is your token symbol in the `lowercase` format
 
+* `asset` must be your token's symbol
+* `asserMap` must be your token's symbol without suffix
+* `display`'s default value is `true`, which means the information will be available in the explorer
+
+The following contacts are supported in `contact`:
+* Twitter
+* Facebook
+* Reddit
+* Instagram
+* Medium
+* Steemit
+* Coinmarketcap
+* Binance Info
+* Youtube
+* Telegram
+* Discord
+* Linkedin
+* Github
+
+> Note: you must use the right key name
+
+Example:
+
 ```json
 {
-  "description": "Token is a decentralised project that is building the future of payments",
-  "contact": {
-    "website": "https://token.io",
-    "twitter": "https://twitter.com/token",
-    "telegram": "https://t.me/token",
-    "medium": "https://medium.com/token"
-    "GitHub": ""
-    "Documentation": ""
-  },
-  "other": {
-    "****": "****",
-  }
+  "asset":"BNB",
+    "assetMap":"BNB",
+    "officialSiteUrl":"https://binance.com/",
+    "contactEmail":"",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/NOWtoken_Bounty",
+        "Reddit":"https://www.reddit.com/user/ChangeNow_io",
+        "Medium":"https://medium.com/",
+        "Youtube":"https://www.youtube.com/channel/UCpnkFY4kom0q3RJnhHiuMnw",
+        "Twitter":"https://twitter.com/ChangeNOW_io",
+    }
 }
 ```

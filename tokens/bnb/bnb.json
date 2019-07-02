@@ -1,10 +1,14 @@
 {
-  "description": "binance chain native token",
-  "contact": {
-    "twitter": "https://twitter.com/binance",
-    "telegram": "https://t.me/token",
-    "medium": "https://medium.com/token"
-    "GitHub": ""
-    "Documentation": ""
-  }
+    "asset":"BNB",
+    "assetMap":"BNB",
+    "officialSiteUrl":"https://binance.com/",
+    "contactEmail":"",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/NOWtoken_Bounty",
+        "Reddit":"https://www.reddit.com/user/ChangeNow_io",
+        "Medium":"https://medium.com/",
+        "Youtube":"https://www.youtube.com/channel/UCpnkFY4kom0q3RJnhHiuMnw",
+        "Twitter":"https://twitter.com/ChangeNOW_io",
+    }
 }

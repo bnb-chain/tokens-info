@@ -1,12 +1,15 @@
 {
-  "description": "Change now token",
-  "contact": {
-    "website": "https://changenow.io/",
-    "twitter": "https://twitter.com/ChangeNOW_io",
-    "telegram": "https://t.me/NOWtoken_Bounty",
-    "medium": "https://medium.com/@changenow_io"
-  },
-  "other": {
-    "****": "****",
-  }
+    "asset":"NOW-E68",
+    "assetMap":"NOW",
+    "officialSiteUrl":"https://changenow.io/",
+    "contactEmail":"email@now.com",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/NOWtoken_Bounty",
+        "Reddit":"https://www.reddit.com/user/ChangeNow_io",
+        "Medium":"https://medium.com/",
+        "Youtube":"https://www.youtube.com/channel/UCpnkFY4kom0q3RJnhHiuMnw",
+        "Twitter":"https://twitter.com/ChangeNOW_io",
+        "Facebook":"https://www.facebook.com/ChangeNOW.io/"
+    }
 }

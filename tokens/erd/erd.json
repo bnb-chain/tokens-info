@@ -1,10 +1,13 @@
 {
-  "description": "A scalable value transfer protocol for the digital economy",
-  "contact": {
-    "twitter": "https://twitter.com/elrondnetwork",
-    "telegram": "https://t.me/elrondnetwork",
-    "medium": "https://medium.com/elrondnetwork"
-    "GitHub": "https://github.com/elrondnetwork"
-    "Documentation": "https://docs.elrond.com"
-  }
+    "asset":"ERD-D06",
+    "assetMap":"ERD",
+    "officialSiteUrl":"https://elrond.com",
+    "contactEmail":"",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/elrondnetwork",
+        "Medium":"https://medium.com/elrondnetwork",
+        "GitHub": "https://github.com/elrondnetwork",
+        "Twitter":"https://twitter.com/elrondnetwork",
+    }
 }

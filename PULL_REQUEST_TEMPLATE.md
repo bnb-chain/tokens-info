@@ -36,10 +36,10 @@ Example:
 
 ```json
 {
-  "asset":"BNB",
-    "assetMap":"BNB",
-    "officialSiteUrl":"https://binance.com/",
-    "contactEmail":"",
+    "asset":"NOW-E68",
+    "assetMap":"NOW",
+    "officialSiteUrl":"https://changenow.io/",
+    "contactEmail":"email@now.com",
     "display":true,
     "contact":{
         "Telegram":"https://t.me/NOWtoken_Bounty",
@@ -47,6 +47,8 @@ Example:
         "Medium":"https://medium.com/",
         "Youtube":"https://www.youtube.com/channel/UCpnkFY4kom0q3RJnhHiuMnw",
         "Twitter":"https://twitter.com/ChangeNOW_io",
+        "Facebook":"https://www.facebook.com/ChangeNOW.io/"
     }
 }
+
 ```

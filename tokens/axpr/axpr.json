@@ -1,0 +1,15 @@
+{
+    "asset":"AXPR-777",
+    "assetMap":"AXPR",
+    "officialSiteUrl":"https://axpire.io/",
+    "contactEmail":"info@axpire.com",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/AxpireOfficial",
+        "Reddit":"https://www.reddit.com/r/aXpire/",
+        "Medium":"https://medium.com/@aXpire/",
+        "Youtube":"https://www.youtube.com/channel/UCGk_ARm1Dg0o8VgjYIpouFg",
+        "Twitter":"https://twitter.com/aXpire_official",
+        "Facebook":"https://www.facebook.com/aXpireOfficial/"
+    }
+}

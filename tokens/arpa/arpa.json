@@ -1,0 +1,13 @@
+{
+  "asset": "ARPA-575",
+  "assetMap": "ARPA",
+  "officialSiteUrl": "https://arpachain.io/",
+  "contactEmail": "contact@arpachain.io",
+  "display": true,
+  "contact": {
+    "Telegram": "https://t.me/arpa_community",
+    "Medium": "https://medium.com/@arpa",
+    "Twitter": "https://twitter.com/arpaofficial",
+    "Github": "https://github.com/arpachain/"
+  }
+}

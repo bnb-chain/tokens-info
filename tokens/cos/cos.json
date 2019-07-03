@@ -1,0 +1,18 @@
+{
+    "asset":"COS-2E4",
+    "assetMap":"COS",
+    "officialSiteUrl":"https://www.contentos.io",
+    "contactEmail":"service@contentos.io",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/ContentosGlobal",
+        "Reddit":"https://www.reddit.com/r/Contentosofficial/",
+        "Medium":"https://medium.com/contentos-io",
+        "Youtube":"https://www.youtube.com/channel/UCTHA9CYW8UxZOSjCFckMX6A",
+        "Twitter":"https://twitter.com/contentosio",
+        "Facebook":"https://www.facebook.com/ContentosOfficial",
+        "Coinmarketcap":"https://coinmarketcap.com/currencies/contentos/",
+        "Binance Info":"https://info.binance.com/en/currencies/contentos",
+        "Github":"https://github.com/coschain"
+    }
+}

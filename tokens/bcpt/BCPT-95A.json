@@ -1,0 +1,17 @@
+{
+    "asset":"BCPT-95A",
+    "assetMap":"BCPT",
+    "officialSiteUrl":"https://blockmason.io/the-credit-protocol/",
+    "contactEmail":"info@blockmason.io",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/blockmason",
+        "Reddit":"https://www.reddit.com/r/blockmason",
+        "Medium":"https://medium.com/@blockmason",
+        "Youtube":"https://www.youtube.com/channel/UCqv0UBWjgjM5JZkxdQR7DYw",
+        "Twitter":"https://twitter.com/blockmasonio",
+        "Facebook":"https://www.facebook.com/blockmasonio/",
+        "Github":"https://github.com/blockmason/credit-protocol",
+        "Coinmarketcap":"https://coinmarketcap.com/currencies/blockmason/"
+    }
+}

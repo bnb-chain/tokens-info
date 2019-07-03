@@ -1,0 +1,14 @@
+{
+    "asset":"CTG-493",
+    "assetMap":"CTG",
+    "officialSiteUrl":"https://cryptorg.net",
+    "contactEmail":"support@cryptorg.net",
+    "display":true,
+    "contact":{
+        "Telegram":"https://telegram.me/cryptorg_eng",
+        "GitHub": "https://github.com/cryptorg-io",
+        "Twitter":"https://twitter.com/Cryptorg_trade",
+        "GitHub": "https://www.instagram.com/cryptorg_trading/",
+        "Discord": "https://discordapp.com/invite/qhhZ65K",
+    }
+}

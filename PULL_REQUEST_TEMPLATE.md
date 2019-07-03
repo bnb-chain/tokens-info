@@ -5,11 +5,11 @@ to ensure the following steps have been taken:
 
 2. Uploade your logo in your folder
 
-- [ ] Filename in the `lowercase` format
+- [ ] Filename in the `uppercase` format with suffix
 - [ ] Image format: `png`
 - [ ] Image size: `256 by 256 px`
 
-3. Upload a json file for additional info. File name is your token symbol in the `lowercase` format
+3. Upload a json file for additional info. File name is your token symbol in the `uppercase` format with suffix
 
 * `asset` must be your token's symbol
 * `asserMap` must be your token's symbol without suffix

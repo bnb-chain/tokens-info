@@ -1,0 +1,15 @@
+{
+    "asset":"BLINK-9C6",
+    "assetMap":"BLINK",
+    "officialSiteUrl":"https://blockmason.link",
+    "contactEmail":"info@blockmason.io",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/blockmasonlink",
+        "Reddit":"https://www.reddit.com/r/blockmason",
+        "Medium":"https://medium.com/@blockmason",
+        "Youtube":"https://www.youtube.com/channel/UCqv0UBWjgjM5JZkxdQR7DYw",
+        "Twitter":"https://twitter.com/blockmasonio",
+        "Facebook":"https://www.facebook.com/blockmasonio/"
+    }
+}

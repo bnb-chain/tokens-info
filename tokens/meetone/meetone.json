@@ -1,0 +1,14 @@
+{
+  "asset":"MEETONE-031",
+  "assetMap":"MEETONE",
+  "officialSiteUrl":"https://meet.one",
+  "contactEmail":"hello@meet.one",
+  "display":true,
+  "contact":{
+    "Telegram":"https://t.me/MeetOneEnglish",
+    "Medium":"https://medium.com/@MEET.ONE",
+    "Twitter":"https://twitter.com/MeetDotOne",
+    "Github":"https://github.com/meet-one",
+    "Binance Info":"https://info.binance.com/en/currencies/meetone"
+  }
+}

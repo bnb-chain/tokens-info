@@ -1,0 +1,15 @@
+{
+    "asset":"GTEX-71B",
+    "assetMap":"GTEX",
+    "officialSiteUrl":"https://gtexgame.io/",
+    "contactEmail":"info@gtexgame.io",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/gtexgame",
+        "Reddit":"https://www.reddit.com/user/GTEXGame",
+        "Youtube":"https://www.youtube.com/channel/UCI2-yRphxoHEIEAOV7pwyDQ",
+        "Twitter":"https://twitter.com/GTEXGame",
+        "Facebook":"https://www.facebook.com/GTEXGame/",
+        "Github": "https://github.com/gtexgame"
+    }
+}

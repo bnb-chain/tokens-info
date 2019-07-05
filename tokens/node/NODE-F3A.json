@@ -1,0 +1,16 @@
+{
+  "asset":"NODE-F3A",
+  "assetMap":"NODE",
+  "officialSiteUrl":"https://pocketnode.net/",
+  "contactEmail":"support@pocketnode.net",
+  "display":true,
+  "contact":{
+    "Telegram":"https://t.me/Pocketnode_techsupport",
+    "Reddit":"https://www.reddit.com/r/PocketNode/",
+    "Medium":"https://medium.com/pocket-node",
+    "Twitter":"https://twitter.com/pocketnodes"
+    
+  }
+}
+
+

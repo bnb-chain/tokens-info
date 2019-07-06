@@ -1,0 +1,16 @@
+{
+    "asset":"SHR-DB6",
+    "assetMap":"SHR",
+    "officialSiteUrl":"https://sharering.network/",
+    "contactEmail":"hello@sharering.network",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/ShareRing",
+        "Reddit":"https://www.reddit.com/r/ShareRing/",
+        "Medium":"https://medium.com/ShareRing",
+        "Youtube":"http://youtube.com/sharering",
+        "Twitter":"https://twitter.com/ShareRingGlobal",
+        "Facebook":"https://www.facebook.com/ShareRing.Network/",
+		"Github":"https://github.com/sharering"		
+    }
+}

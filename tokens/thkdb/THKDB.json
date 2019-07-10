@@ -1,0 +1,15 @@
+{
+    "asset":"THKDB-888",
+    "assetMap":"THKDB",
+    "officialSiteUrl":"https://trusttoken.com",
+    "contactEmail":"exchange-support@trusttoken.com",
+    "display":true,
+    "contact":{
+        "Reddit":"https://www.reddit.com/r/TrustToken/",
+        "Github":"https://github.com/TrustToken",
+        "Linkedin":"https://www.linkedin.com/company/trusttoken/",
+        "Medium":"https://blog.trusttoken.com",
+        "Telegram":"https://t.me/joinchat/HihkMkTja1gIyBRM1J1_vg",
+        "Twitter":"https://twitter.com/TrustToken"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "asset":"PVT-554",
+    "assetMap":"PVT",
+    "officialSiteUrl":"https://www.pivot.one",
+    "contactEmail":"support@pivot.one",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/pivotglobal",
+        "Twitter":"https://twitter.com/pivot_pvt",
+        "Binance Info":"https://info.binance.com/en/currencies/pivot-token"
+    }
+}

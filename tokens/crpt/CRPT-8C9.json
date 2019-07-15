@@ -1,0 +1,16 @@
+{
+    "asset":"CRPT-8C9",
+    "assetMap":"CRPT",
+    "officialSiteUrl":"https://crypterium.com",
+    "contactEmail":"info@crypterium.com",
+    "display":false,
+    "contact":{
+        "Telegram":"https://t.me/crypterium",
+        "Medium":"https://medium.com/@crypterium",
+        "Youtube":"https://www.youtube.com/crypterium",
+        "Coinmarketcap":"https://coinmarketcap.com/currencies/crypterium/",
+        "Twitter":"https://twitter.com/crypterium",
+        "Facebook":"https://fb.com/crypterium.org",
+        "Linkedin": "https://www.linkedin.com/company/crypterium"
+    }
+}

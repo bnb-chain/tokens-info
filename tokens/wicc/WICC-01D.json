@@ -1,0 +1,19 @@
+{
+    "asset":"WICC-01D",
+    "assetMap":"WICC",
+    "officialSiteUrl":"https://www.waykichain.com/",
+    "contactEmail":"biz@waykichainhk.com",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/wiccofficial",
+        "Facebook":"https://www.facebook.com/waykichainofficial",
+        "Reddit":"https://www.reddit.com/r/WICCProject/",
+        "Medium":"https://medium.com/@waykichainwicc",
+        "Youtube":" https://www.youtube.com/channel/UCjudZhgPcAX74LVxi23kKvg",
+        "Twitter":"https://twitter.com/wayki_chain",
+        "Coinmarketcap":"https://coinmarketcap.com/zh/currencies/waykichain/",
+        "Binance Info":"https://info.binance.com/en/currencies/waykichain",
+        "Linkedin":"https://www.linkedin.com/company/waykichain%E7%BB%B4%E5%9F%BA%E9%93%BE/",
+        "Github":"https://github.com/WaykiChain/WaykiChain"
+    }
+}

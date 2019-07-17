@@ -1,0 +1,16 @@
+{
+    "asset":"ONTB-9D4",
+    "assetMap":"ONT",
+    "officialSiteUrl":"https://ont.io",
+    "contactEmail":"contact@ont.io",
+    "display":true,
+    "contact":{
+        "GitHub": "https://github.com/ontio",
+        "Telegram":"https://medium.com/ontologynetwork",
+        "Twitter":"https://twitter.com/OntologyNetwork",
+        "Facebook":"https://www.facebook.com/ONTnetwork",
+        "Discord": "https://discordapp.com/invite/4TQujHj",
+        "Medium":"https://medium.com/ontologynetwork",
+        "Youtube":"https://www.youtube.com/channel/UCXzLZJgDglAWRU0b2GOa7pA"
+    }
+}

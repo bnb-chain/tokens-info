@@ -1,1 +1,14 @@
-...
+{
+    "asset":"VIDT-F53",
+    "assetMap":"VIDT",
+    "officialSiteUrl":"https://about.v-id.org/",
+    "contactEmail":"service@v-id.org",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/vidtoken",
+        "Reddit":"https://www.reddit.com/r/VIDT",
+        "Medium":"https://medium.com/@pim_vee",
+        "Youtube":"https://www.youtube.com/channel/UCh6xfbjMUeYFUO-2O_wRSBA/videos",
+        "Twitter":"https://twitter.com/v_id_blockchain"
+    }
+}

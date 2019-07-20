@@ -1,7 +1,7 @@
 {
     "asset":"VIDT-F53",
     "assetMap":"VIDT",
-    "officialSiteUrl":"https://about.v-id.org/",
+    "officialSiteUrl":"https://about.v-id.org/token",
     "contactEmail":"service@v-id.org",
     "display":true,
     "contact":{

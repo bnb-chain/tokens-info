@@ -1,0 +1,15 @@
+{
+    "asset":"TRX",
+    "assetMap":"TRX",
+    "officialSiteUrl":"https://tron.network/",
+    "contactEmail":"service@tron.network",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/tronnetworkEN",
+        "Reddit":"https://www.reddit.com/r/Tronix/",
+        "Medium":"https://medium.com/tron-foundation",
+        "Youtube":"https://www.youtube.com/channel/UC5OPOGRq02iK-0T9sKse_kA",
+        "Twitter":"https://twitter.com/Tronfoundation",
+        "Facebook":"https://www.facebook.com/tronfoundation"
+    }
+}

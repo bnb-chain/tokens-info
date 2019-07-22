@@ -1,0 +1,15 @@
+{
+    "asset":"HYN-F21",
+    "assetMap":"HYN",
+    "officialSiteUrl":"https://www.hyn.space",
+    "contactEmail":"info@hyn.space",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/HyperionOfficialHYN",
+        "Medium":"https://medium.com/@hyperionsgoffical",
+        "Youtube":"https://www.youtube.com/channel/UCJTt-dNx7i7_azkyeEn7Yag",
+        "Coinmarketcap":"https://coinmarketcap.com/currencies/hyperion/",
+        "Twitter":"https://twitter.com/HyperionHYN?lang=en",
+        "Facebook":"https://www.facebook.com/Hyperion-854025704797996/"
+    }
+}

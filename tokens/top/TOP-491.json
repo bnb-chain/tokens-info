@@ -1,0 +1,15 @@
+{
+    "asset":"TOP-491",
+    "assetMap":"TOP",
+    "officialSiteUrl":"https://www.topnetwork.org/",
+    "contactEmail":"contact@topnetwork.org",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/topnetwork_top",
+        "Reddit":"https://www.reddit.com/user/topnetwork_top",
+        "Medium":"https://medium.com/@topnetwork",
+        "Youtube":"https://www.youtube.com/channel/UCmqgnSFc6JoebcT3FJWSv-g?view_as=subscriber",
+        "Twitter":"https://twitter.com/topnetwork_top",
+        "Facebook":"https://www.facebook.com/topnetworktop"
+    }
+}

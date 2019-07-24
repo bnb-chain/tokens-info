@@ -3,12 +3,12 @@
     "assetMap":"CRPT",
     "officialSiteUrl":"https://crypterium.com",
     "contactEmail":"info@crypterium.com",
-    "display":false,
+    "display":true,
     "contact":{
         "Telegram":"https://t.me/crypterium",
         "Medium":"https://medium.com/@crypterium",
         "Youtube":"https://www.youtube.com/crypterium",
-        "Coinmarketcap":"https://coinmarketcap.com/currencies/crypterium/",
+        "Coinmarketcap":"https://coinmarketcap.com/currencies/crpt/",
         "Twitter":"https://twitter.com/crypterium",
         "Facebook":"https://fb.com/crypterium.org",
         "Linkedin": "https://www.linkedin.com/company/crypterium"

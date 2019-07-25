@@ -1,0 +1,12 @@
+{
+    "asset":"NEXO-A84",
+    "assetMap":"NEXO",
+    "officialSiteUrl":"https://nexo.io/",
+    "contactEmail":"info@nexo.io",
+    "display":true,
+    "contact":{
+        "Medium":"https://medium.com/nexo",
+        "Twitter":"https://twitter.com/NexoFinance",
+        "Facebook":"https://www.facebook.com/NexoFinance"
+    }
+}

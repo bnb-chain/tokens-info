@@ -7,6 +7,10 @@
     "contact":{
         "Medium":"https://medium.com/nexo",
         "Twitter":"https://twitter.com/NexoFinance",
-        "Facebook":"https://www.facebook.com/NexoFinance"
+        "Facebook":"https://www.facebook.com/NexoFinance",
+        "CoinMarketCap": "https://coinmarketcap.com/currencies/nexo/",
+        "YouTube": "https://www.youtube.com/nexofinance",
+        "Reddit": "https://www.reddit.com/r/Nexo/",
+        "Binance Info": "https://info.binance.com/en/currencies/nexo"
     }
 }

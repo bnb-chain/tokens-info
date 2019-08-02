@@ -1,9 +1,9 @@
 In order to streamline the review of the contribution we ask you
 to ensure the following steps have been taken:
 
-1. Create a folder under `/tokens`, folder name is your token symbol in the `lowercase` format
+1. Create a folder under `/tokens`, the folder name is your token symbol in the `lowercase` format
 
-2. Uploade your logo in your folder
+2. Upload your logo in your folder
 
 - [ ] Filename in the `uppercase` format with suffix
 - [ ] Image format: `png`

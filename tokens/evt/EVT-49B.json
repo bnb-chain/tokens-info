@@ -1,0 +1,15 @@
+{
+    "asset": "EVT-49B",
+    "assetMap": "EVT",
+    "officialSiteUrl": "https://everitoken.io",
+    "contactEmail": "harrywong@everitoken.io",
+    "display": true,
+    "contact": {
+        "Telegram": "https://t.me/everitoken",
+        "Medium": "https://medium.com/@everitoken",
+        "GitHub": "https://github.com/everitoken",
+        "Twitter": "https://twitter.com/EveriToken",
+        "Facebook": "https://www.facebook.com/everiToken",
+        "Reddit": "https://www.reddit.com/r/everitoken/"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "asset":"GMAT-FC8",
+    "assetMap":"GMAT",
+    "officialSiteUrl":"https://www.gowithmi.com/",
+    "contactEmail":"biz@gowithmi.com",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/gowithmi_en",
+        "Medium":"https://medium.com/@gowithmigl",
+        "Twitter":"https://twitter.com/GoWithMi_GL",
+        "Facebook":"https://www.facebook.com/gowithmi.fans",
+        "Coinmarketcap":"https://coinmarketcap.com/currencies/gowithmi/",
+        "Instagram":"https://www.instagram.com/gowithmi.id/",
+        "Youtube":"https://www.youtube.com/c/GoWithMi",
+        "Github":"https://github.com/GoWithMi"
+    }
+}

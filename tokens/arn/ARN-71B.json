@@ -1,0 +1,18 @@
+{
+    "asset”:”ARN-71B”,
+    "assetMap”:”ARN”,
+    "officialSiteUrl":"https://aeron.aero",
+    "contactEmail":"info@aeron.aero",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/aeronaero",
+        "Reddit":"https://www.reddit.com/r/AeronAero/",
+        "Medium":"https://medium.com/@aeronaero",
+        "Youtube":"https://www.youtube.com/channel/UC5kHSnnbz8epwZOqVPci98w",
+        "Twitter":"https://twitter.com/aeron_aero",
+        "Facebook":"https://www.facebook.com/aeronpublic",
+        "Coinmarketcap":”https://coinmarketcap.com/currencies/aeron”,
+        "Binance Info":”https://info.binance.com/en/currencies/aeron”,
+        "Github":”https://github.com/aeronaero/aeron”
+    }
+}

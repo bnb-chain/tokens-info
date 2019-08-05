@@ -1,0 +1,15 @@
+{
+    "asset":"СBM-4B2",
+    "assetMap":"CBM",
+    "officialSiteUrl":"https://cryptobonusmiles.com",
+    "contactEmail":"info@cryptobonusmiles.com",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/aeronaero",
+        "Reddit":"https://www.reddit.com/r/AeronAero/",
+        "Medium":"https://medium.com/@aeronaero",
+        "Twitter":"https://twitter.com/aeron_aero",
+        "Facebook":"https://www.facebook.com/aeronpublic",
+        "Github":"https://github.com/aeronaero/aeron"
+    }
+}

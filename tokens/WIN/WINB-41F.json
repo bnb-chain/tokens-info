@@ -1,0 +1,12 @@
+{
+    "asset":"WINB-41F",
+    "assetMap":"WIN",
+    "officialSiteUrl":"https://www.wink.org/#/",
+    "contactEmail":"pr@wink.org",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/WINk_org_official",
+        "Medium":"https://medium.com/@winkfoundation",
+        "Twitter":"https://twitter.com/winkorg",
+    }
+}

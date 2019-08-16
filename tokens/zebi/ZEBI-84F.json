@@ -1,0 +1,17 @@
+{
+    "asset":"ZEBI-84F",
+    "assetMap":"ZEBI",
+    "officialSiteUrl":"https://zebi.io/",
+    "contactEmail":"info@zebi.co",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/ZebiData",
+	      "LinkedIn":"https://www.linkedin.com/company/zebidata",
+        "Reddit":"https://www.reddit.com/r/Zebidataindia/",
+        "Medium":"https://medium.com/@Zebidata",
+        "Youtube":"https://www.youtube.com/channel/UCrEFyjIGGznac_8nj9uhu2Q",
+        "Twitter":"https://twitter.com/ZebidataIndia",
+        "Facebook":"https://www.facebook.com/ZebidataIndia/",
+        "Github":"https://github.com/zebidata"
+    }
+}

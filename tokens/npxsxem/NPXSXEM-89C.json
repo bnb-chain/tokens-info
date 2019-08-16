@@ -1,0 +1,20 @@
+{
+    "asset":"NPXSXEM-89C",
+    "assetMap":"NPXSXEM",
+    "officialSiteUrl":"https://pundix.com/",
+    "contactEmail":"contact@pundix.com",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/nemxpos",
+        "Facebook":"https://www.facebook.com/pundixlabs/",
+        "Reddit":"https://www.reddit.com/r/PundiX/",
+        "Medium":"https://medium.com/pundix",
+        "Youtube":" https://www.youtube.com/channel/UCOIf6WeLEzZi3DQxzenTZeA",
+        "Twitter":"https://twitter.com/PundiXLabs",
+        "Coinmarketcap":"https://coinmarketcap.com/currencies/pundi-x-nem/",
+        "Binance Info":"https://info.binance.com/en/currencies/pundi-x-nem",
+        "Linkedin":"https://www.linkedin.com/company/pundix",
+        "Github":"https://github.com/pundix",
+        "Instagram": "https://www.instagram.com/pundi_x/"
+    }
+}

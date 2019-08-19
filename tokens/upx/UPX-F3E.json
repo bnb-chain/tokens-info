@@ -1,0 +1,16 @@
+{
+    "asset":"UPX-F3E",
+    "assetMap":"UPX",
+    "officialSiteUrl":"https://www.udap.io/",
+    "contactEmail":"info@udap.io",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/udapcommunity",
+        "Medium":"https://medium.com/udap",
+        "Github":"https://github.com/udap",
+        "Twitter":"https://twitter.com/udapfoundation",
+        "Facebook":"https://www.facebook.com/udapfoundation",
+        "Linkedin": "https://www.linkedin.com/company/udap/",
+        "Youtube":"https://www.youtube.com/channel/UCDl000RbiE5ywU7x2igWWQg"
+    }
+}

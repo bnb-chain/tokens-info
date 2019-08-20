@@ -1,0 +1,13 @@
+{
+    "asset":"DEEP-9D3",
+    "assetMap":"DEEP",
+    "officialSiteUrl":"https://www.deepcloudai.com/",
+    "contactEmail":"enquiries@deepcloudai.com",
+    "display":true,
+    "contact":{
+        "Telegram":"https://tele.me/telegram/groups/deepcloud_ai",
+        "Youtube":"https://www.youtube.com/channel/UCsFttSUlJuYbDvAiED_MlRg",
+        "Twitter":"https://twitter.com/deepcloud_ai",
+        "Facebook":"https://www.facebook.com/DeepCloudOfficial/"
+    }
+}

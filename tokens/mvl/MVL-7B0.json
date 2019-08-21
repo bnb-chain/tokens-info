@@ -1,0 +1,17 @@
+{
+  "asset":"MVL-7B0",
+  "assetMap":"MVL",
+  "officialSiteUrl":"https://mvlchain.io/",
+  "contactEmail":"support@mvlchain.io",
+  "display":true,
+  "contact":{
+    "Telegram":"https://t.me/mvlchain_kr",
+    "Reddit":"https://www.reddit.com/r/MVL/",
+    "Medium":"http://medium.com/@mvlchain",
+    "Youtube":"https://www.youtube.com/channel/UCWIwx5KcQIaf7Ti6piFhnKw",
+    "Twitter":"https://twitter.com/mvlchain",
+    "Facebook":"https://www.facebook.com/mvlchain/",
+    "Github":"https://github.com/mvlchain",
+    "Coinmarketcap": "https://coinmarketcap.com/currencies/mvl/"
+  }
+}

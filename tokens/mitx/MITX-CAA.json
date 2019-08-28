@@ -1,0 +1,17 @@
+{
+    "asset":"MITX-CAA",
+    "assetMap":"MITX",
+    "officialSiteUrl":"https://www.morpheuslabs.io",
+    "contactEmail":"info@morpheuslabs.io",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/morpheuslabs",
+        "Reddit":"https://www.reddit.com/r/MorpheusLabs/",
+        "Medium":" https://medium.com/@morpheuslabs_io",
+        "Youtube":"https://www.youtube.com/channel/UCBDcCbFiFDZOcfkGkAo-iLQ",
+        "Twitter":"https://twitter.com/morpheuslabs_io",
+        "Facebook":"www.facebook.com/morpheuslabs.io",
+        "Coinmarketcap":"https://coinmarketcap.com/currencies/morpheus-labs/",
+        "Github":"https://github.com/Morpheuslabs-io"
+    }
+}

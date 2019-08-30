@@ -1,0 +1,15 @@
+{
+    "asset":"ECO-083",
+    "assetMap":"ECO",
+    "officialSiteUrl":"http://eco-system.io/",
+    "contactEmail":"info@eco-system.io",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/OfficialORME",
+        "Reddit":"https://www.reddit.com/r/OrmeusEcosystem/",
+        "Medium":"https://medium.com/ormeus",
+        "Youtube":"https://www.youtube.com/c/OrmeusEcosystem",
+        "Twitter":"https://twitter.com/ormeusecosystem",
+        "Facebook":"https://www.facebook.com/ormeusecosystem"
+    }
+}

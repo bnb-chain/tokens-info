@@ -1,0 +1,16 @@
+{
+    "asset":"USDH-5B5",
+    "assetMap":"USDH",
+    "officialSiteUrl":"https://www.honestcoin.io",
+    "contactEmail":"contact@honestnode.io",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/theHonestNode",
+        "Twitter":"https://twitter.com/thehonestnode",
+        "Facebook":"https://www.facebook.com/thehonestnode",
+        "Reddit":"https://www.reddit.com/r/HonestNode",
+        "Instagram":"https://www.instagram.com/thehonestnode",
+        "Medium":"https://medium.com/@honestnode123",
+        "Linkedin":"https://www.linkedin.com/company/honestnode",
+    }
+}

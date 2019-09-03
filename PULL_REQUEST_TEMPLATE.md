@@ -12,7 +12,7 @@ to ensure the following steps have been taken:
 3. Upload a json file for additional info. File name is your token symbol in the `uppercase` format with suffix
 
 * `asset` must be your token's symbol
-* `asserMap` must be your token's symbol without suffix
+* `assetMap` must be your token's symbol without suffix
 * `display`'s default value is `true`, which means the information will be available in the explorer
 
 The following contacts are supported in `contact`:

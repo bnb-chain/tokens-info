@@ -1,0 +1,14 @@
+{
+    "asset": "MCASH-869",
+    "assetMap": "MCASH",
+    "officialSiteUrl": "https://mcash.network",
+    "contactEmail": "contact@mcash.network",
+    "display": true,
+    "contact": {
+        "Telegram": "https://t.me/mcashchain",
+        "Medium": "https://medium.com/@mcashchain",
+        "Twitter": "https://twitter.com/@mcashchain",
+        "Facebook": "https://www.facebook.com/mcashchain",
+        "Coinmarketcap": "https://coinmarketcap.com/currencies/mcashchain/"
+    }
+}

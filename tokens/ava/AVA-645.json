@@ -1,0 +1,19 @@
+{
+	"asset":"AVA-645",
+	"assetMap":"AVA",
+	"officialSiteUrl":"https://www.travala.com/",
+	"contactEmail":"",
+	"display":true,
+	"contact":{
+		"Twitter":"https://twitter.com/travalacom/",
+		"Facebook":"https://www.facebook.com/travala/",
+		"Reddit":"https://www.reddit.com/r/Travala/",
+		"Instagram":"https://www.instagram.com/travalacom/",
+		"Coinmarketcap":"https://coinmarketcap.com/currencies/travala/",
+		"Binance Info":"https://info.binance.com/en/currencies/travala",
+		"YouTube":"https://www.youtube.com/channel/UCUyqRraSM2nNpJp86yYodmw",
+		"Telegram":"https://t.me/travala/",
+		"LinkedIn":"https://www.linkedin.com/company/travalacom/",
+		"GitHub":"https://github.com/travala/"
+	}
+}

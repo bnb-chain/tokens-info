@@ -1,0 +1,18 @@
+{
+  "asset": "MEDB-87E",
+  "assetMap": "MEDB",
+  "officialSiteUrl": "https://medibloc.org/",
+  "contactEmail": "partner@medibloc.org",
+  "display": true,
+  "contact": {
+    "Twitter": "https://twitter.com/_MediBloc",
+    "Facebook": "https://www.facebook.com/medibloc",
+    "Reddit": "https://www.reddit.com/r/MediBloc/",
+    "Medium": "https://medium.com/@MediBloc",
+    "Steemit": "https://steemit.com/@medibloc",
+    "Coinmarketcap": "https://coinmarketcap.com/currencies/medibloc/",
+    "Youtube": "https://www.youtube.com/channel/UC_bbdfVECp1qRJCR6P_-UDQ",
+    "Telegram": "https://t.me/medibloc",
+    "Github": "https://github.com/Medibloc"
+  }
+}

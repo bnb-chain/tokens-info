@@ -1,0 +1,15 @@
+{
+  "asset":"KAVA-10C.json",
+  "assetMap":"KAVA",
+  "officialSiteUrl":"https://kava.io/",
+  "contactEmail":"hello@kava.io",
+  "display":true,
+  "contact":{
+      "Telegram":"https://t.me/kavalabs",
+      "Medium":"https://medium.com/kava-labs",
+      "Youtube":"https://www.youtube.com/channel/UChauw9EMD1DC-ny_cjoLs8A",
+      "Twitter":"https://twitter.com/kava_labs",
+      "Github": "https://github.com/kava-labs",
+      "Riot": "https://riot.im/app/#/room/#kava-validators:matrix.org"
+  }
+}

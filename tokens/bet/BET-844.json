@@ -1,13 +1,11 @@
 {
     "asset":"BET-844",
     "assetMap":"BET",
-    "officialSiteUrl":"https://eosbet.io",
-    "contactEmail":"support@eosbet.io",
+    "officialSiteUrl":"https://earnbet.io",
+    "contactEmail":"contact@earnbet.io",
     "display":true,
     "contact":{
-        "Telegram":"https://t.me/eosbetcasino",
-        "Steemit":"https://steemit.com/@eosbet",
-        "Twitter":"https://twitter.com/eosbetcasino",
-        "Reddit": "https://reddit.com/r/eosbetcasino"
+        "Telegram":"https://t.me/earnbetcasino",
+        "Twitter":"https://twitter.com/EarnBetCasino"
     }
 }

@@ -1,0 +1,18 @@
+{
+  "asset": "WRX-ED1",
+  "assetMap": "WRX",
+  "officialSiteUrl": "https://wazirx.com",
+  "contactEmail": "dev@wazirx.com",
+  "display": true,
+  "contact": {
+    "Telegram": "https://t.me/wazirx",
+    "Medium": "https://medium.com/wazirx",
+    "Youtube": "https://youtube.com/wazirx",
+    "Twitter": "https://twitter.com/wazirxindia",
+    "Facebook": "https://www.facebook.com/wazirx",
+    "Coinmarketcap": "https://coinmarketcap.com/exchanges/wazirx",
+    "Linkedin": "https://www.linkedin.com/company/wazirx",
+    "Github": "https://github.com/wazirx"
+  }
+}
+

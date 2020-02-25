@@ -1,6 +1,7 @@
 {
     "asset":"IDRTB-178",
     "assetMap":"IDRTB",
+    "market": "FIAT",
     "officialSiteUrl":"https://rupiahtoken.com",
     "contactEmail":"support@rupiahtoken.com",
     "display":true,

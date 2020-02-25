@@ -1,6 +1,7 @@
 {
     "asset":"XRP-BF2",
     "assetMap":"XRP",
+    "market": "ALTS",
     "officialSiteUrl":"",
     "contactEmail":"Product@binance.com",
     "display":true,

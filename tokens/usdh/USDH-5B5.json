@@ -1,6 +1,7 @@
 {
     "asset":"USDH-5B5",
     "assetMap":"USDH",
+    "market": "FIAT",
     "officialSiteUrl":"https://www.honestcoin.io",
     "contactEmail":"contact@honestnode.io",
     "display":true,

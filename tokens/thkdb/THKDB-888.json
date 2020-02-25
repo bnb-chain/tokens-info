@@ -1,6 +1,7 @@
 {
     "asset":"THKDB-888",
     "assetMap":"THKDB",
+    "market": "FIAT",
     "officialSiteUrl":"https://trusttoken.com",
     "contactEmail":"exchange-support@trusttoken.com",
     "display":true,

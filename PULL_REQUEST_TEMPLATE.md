@@ -13,6 +13,7 @@ to ensure the following steps have been taken:
 
 * `asset` must be your token's symbol
 * `assetMap` must be your token's symbol without suffix
+* `market` must be `ALTS` or `FIAT`. It determines which market the pair will be listed in when this token is the quote symbol.
 * `display`'s default value is `true`, which means the information will be available in the explorer
 
 The following contacts are supported in `contact`:
@@ -38,6 +39,7 @@ Example:
 {
     "asset":"NOW-E68",
     "assetMap":"NOW",
+    "market": "ALTS",
     "officialSiteUrl":"https://changenow.io/",
     "contactEmail":"email@now.com",
     "display":true,

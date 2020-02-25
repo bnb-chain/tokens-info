@@ -1,6 +1,7 @@
 {
     "asset":"TGBPB-888",
     "assetMap":"TGBPB",
+    "market": "FIAT",
     "officialSiteUrl":"https://trusttoken.com",
     "contactEmail":"exchange-support@trusttoken.com",
     "display":true,

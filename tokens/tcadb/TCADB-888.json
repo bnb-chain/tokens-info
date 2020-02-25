@@ -1,6 +1,7 @@
 {
     "asset":"TCADB-888",
     "assetMap":"TCADB",
+    "market": "FIAT",
     "officialSiteUrl":"https://trusttoken.com",
     "contactEmail":"exchange-support@trusttoken.com",
     "display":true,

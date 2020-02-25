@@ -1,6 +1,7 @@
 {
     "asset":"BUSD-BD1",
     "assetMap":"BUSD",
+    "market": "FIAT",
     "officialSiteUrl":"https://www.paxos.com/busd/",
     "contactEmail":"Product@binance.com",
     "display":true,

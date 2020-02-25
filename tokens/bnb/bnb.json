@@ -1,6 +1,7 @@
 {
     "asset":"BNB",
     "assetMap":"BNB",
+    "market": "BNB",
     "officialSiteUrl":"https://binance.com/",
     "contactEmail":"",
     "display":true,

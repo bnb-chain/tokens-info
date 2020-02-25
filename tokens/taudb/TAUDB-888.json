@@ -1,6 +1,7 @@
 {
     "asset":"TAUDB-888",
     "assetMap":"TAUDB",
+    "market": "FIAT",
     "officialSiteUrl":"https://trusttoken.com",
     "contactEmail":"exchange-support@trusttoken.com",
     "display":true,

@@ -1,0 +1,17 @@
+{
+    "asset": "DARC-24B",
+    "assetMap": "DARC",
+    "officialSiteUrl": "https://konstellation.tech",
+    "contactEmail": "admin@konstellation.tech",
+    "display": true,
+    "contact": {
+        "Telegram": "https://t.me/Konstellation",
+        "Medium": "https://medium.com/@KONSTELLATION",
+        "GitHub": "https://github.com/Konstellation",
+        "Twitter": "https://twitter.com/KNSTL_TECH",
+        "Facebook": "https://www.facebook.com/Konstellation.tech/",
+        "Linkedin": "https://www.linkedin.com/company/konstellation-tech/",
+        "Reddit": "https://www.reddit.com/r/KONSTELLATION/",
+        "Steemit": "https://steemit.com/@darc",
+     }
+}

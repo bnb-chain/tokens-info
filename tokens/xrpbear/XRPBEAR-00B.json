@@ -1,0 +1,11 @@
+{
+  "asset":"XRPBEAR-00B",
+  "assetMap":"XRPBEAR",
+  "officialSiteUrl":"https://ftx.com/",
+  "contactEmail":"",
+  "market": "ALTS",
+  "display":true,
+  "contact":{
+    "Telegram":"https://t.me/FTX_Official"
+  }
+}

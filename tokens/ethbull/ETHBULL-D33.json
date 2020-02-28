@@ -1,0 +1,11 @@
+{
+  "asset":"ETHBULL-D33",
+  "assetMap":"ETHBULL",
+  "officialSiteUrl":"https://ftx.com/",
+  "contactEmail":"",
+  "markets": "ALTS",
+  "display":true,
+  "contact":{
+    "Telegram":"https://t.me/FTX_Official"
+  }
+}

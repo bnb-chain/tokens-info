@@ -1,0 +1,11 @@
+{
+  "asset":"XRPBULL-E7C",
+  "assetMap":"XRPBULL",
+  "officialSiteUrl":"https://ftx.com/",
+  "contactEmail":"",
+  "markets": "ALTS",
+  "display":true,
+  "contact":{
+    "Telegram":"https://t.me/FTX_Official"
+  }
+}

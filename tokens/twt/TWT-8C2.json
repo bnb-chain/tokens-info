@@ -1,0 +1,16 @@
+{
+    "asset": "TWT-8C2",
+    "assetMap": "TWT",
+    "market": "ALTS",
+    "officialSiteUrl": "https://trustwallet.com/",
+    "contactEmail": "support@trustwallet.com",
+    "display": true,
+    "contact": {
+        "Telegram": "https://t.me/trust_announcements",
+        "Reddit": "https://www.reddit.com/r/trustapp/",
+        "Youtube": "https://www.youtube.com/channel/UCrYnRK55nYUDd6flEZ2Kf6g",
+        "Twitter": "https://twitter.com/trustwalletapp",
+        "Facebook": "https://facebook.com/trustwalletapp",
+        "Github": "https://github.com/trustwallet"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "asset":"LYFE-6AB",
+    "assetMap":"LYFE",
+    "market":"ALTS",
+    "officialSiteUrl":"https://lyfe.health/",
+    "contactEmail":"cs@lyfe.health",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/lyfeofficial",
+        "Instagram":"https://www.instagram.com/lyfe.health/",
+        "Medium":"https://medium.com/@lyfehealth",
+        "Youtube":"https://www.youtube.com/channel/UCUQFj9mpVjP0M2yGWeR3wMg",
+        "Twitter":"https://twitter.com/lyfehealthofc",
+        "Facebook":"https://facebook.com/lyfecommunity",
+        "Linkedin":"https://www.linkedin.com/company/lyfehealth"
+    }
+}

@@ -1,6 +1,7 @@
 {
     "asset":"LYFE-6AB",
     "assetMap":"LYFE",
+    "market":"FIAT",
     "officialSiteUrl":"https://lyfe.health/",
     "contactEmail":"cs@lyfe.health",
     "display":true,

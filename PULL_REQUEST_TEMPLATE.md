@@ -30,6 +30,7 @@ The following contacts are supported in `contact`:
 * Discord
 * Linkedin
 * Github
+* Binance Research
 
 > Note: you must use the right key name
 

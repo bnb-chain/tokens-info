@@ -1,10 +1,11 @@
 {
-    "asset":"XRP-BF2",
-    "assetMap":"XRP",
-    "market": "ALTS",
-    "officialSiteUrl":"",
-    "contactEmail":"Product@binance.com",
-    "display":true,
-    "contact":{
-    }
+  "asset": "XRP-BF2",
+  "assetMap": "XRP",
+  "market": "ALTS",
+  "officialSiteUrl": "",
+  "contactEmail": "Product@binance.com",
+  "display": true,
+  "contact": {
+    "Binance Research": "https://research.binance.com/en/projects/xrp"
+  }
 }

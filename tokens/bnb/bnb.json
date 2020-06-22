@@ -1,16 +1,17 @@
 {
-    "asset":"BNB",
-    "assetMap":"BNB",
-    "market": "BNB",
-    "officialSiteUrl":"https://binance.com/",
-    "contactEmail":"",
-    "display":true,
-    "contact":{
-        "Telegram":"https://t.me/binance_announcements",
-        "Reddit":"https://www.reddit.com/r/binanceexchange",
-        "Coinmarketcap":"https://coinmarketcap.com/exchanges/binance/",
-        "Medium":"https://medium.com/binanceexchange",
-        "Youtube":"https://www.youtube.com/channel/UCfYw6dhiwGBJQY_-Jcs8ozw/videos",
-        "Twitter":"https://twitter.com/binance"
-    }
+  "asset": "BNB",
+  "assetMap": "BNB",
+  "market": "BNB",
+  "officialSiteUrl": "https://binance.com/",
+  "contactEmail": "",
+  "display": true,
+  "contact": {
+    "Telegram": "https://t.me/binance_announcements",
+    "Reddit": "https://www.reddit.com/r/binanceexchange",
+    "Coinmarketcap": "https://coinmarketcap.com/exchanges/binance/",
+    "Medium": "https://medium.com/binanceexchange",
+    "Youtube": "https://www.youtube.com/channel/UCfYw6dhiwGBJQY_-Jcs8ozw/videos",
+    "Twitter": "https://twitter.com/binance",
+    "Binance Research": "https://research.binance.com/en/projects/bnb"
+  }
 }

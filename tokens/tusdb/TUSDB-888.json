@@ -1,17 +1,18 @@
 {
-    "asset":"TUSDB-888",
-    "assetMap":"TUSDB",
-    "market": "FIAT",
-    "officialSiteUrl":"https://trusttoken.com",
-    "contactEmail":"exchange-support@trusttoken.com",
-    "display":true,
-    "contact":{
-        "Coinmarketcap":"https://coinmarketcap.com/currencies/trueusd/",
-        "Reddit":"https://www.reddit.com/r/TrustToken/",
-        "Github":"https://github.com/TrustToken",
-        "Linkedin":"https://www.linkedin.com/company/trusttoken/",
-        "Medium":"https://blog.trusttoken.com",
-        "Telegram":"https://t.me/joinchat/HihkMkTja1gIyBRM1J1_vg",
-        "Twitter":"https://twitter.com/TrustToken"
-    }
+  "asset": "TUSDB-888",
+  "assetMap": "TUSDB",
+  "market": "FIAT",
+  "officialSiteUrl": "https://trusttoken.com",
+  "contactEmail": "exchange-support@trusttoken.com",
+  "display": true,
+  "contact": {
+    "Coinmarketcap": "https://coinmarketcap.com/currencies/trueusd/",
+    "Reddit": "https://www.reddit.com/r/TrustToken/",
+    "Github": "https://github.com/TrustToken",
+    "Linkedin": "https://www.linkedin.com/company/trusttoken/",
+    "Medium": "https://blog.trusttoken.com",
+    "Telegram": "https://t.me/joinchat/HihkMkTja1gIyBRM1J1_vg",
+    "Twitter": "https://twitter.com/TrustToken",
+    "Binance Research": "https://research.binance.com/en/projects/trueusd"
+  }
 }

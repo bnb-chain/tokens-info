@@ -1,14 +1,15 @@
 {
-    "asset":"BTTB-D31",
-    "assetMap":"BTT",
-    "officialSiteUrl":"https://www.bittorrent.com/btt/",
-    "contactEmail":"bizdev@bittorrent.com",
-    "display":true,
-    "contact":{
-        "Telegram":"https://t.me/BitTorrentToken",
-        "Medium":"https://medium.com/bittorrent",
-        "Discord":"https://discordapp.com/invite/JPUTmw2",
-        "Twitter":"https://twitter.com/BitTorrent",
-        "Facebook":"https://www.facebook.com/bittorrent"
-    }
+  "asset": "BTTB-D31",
+  "assetMap": "BTT",
+  "officialSiteUrl": "https://www.bittorrent.com/btt/",
+  "contactEmail": "bizdev@bittorrent.com",
+  "display": true,
+  "contact": {
+    "Telegram": "https://t.me/BitTorrentToken",
+    "Medium": "https://medium.com/bittorrent",
+    "Discord": "https://discordapp.com/invite/JPUTmw2",
+    "Twitter": "https://twitter.com/BitTorrent",
+    "Facebook": "https://www.facebook.com/bittorrent",
+    "Binance Research": "https://research.binance.com/en/projects/bittorrent"
+  }
 }

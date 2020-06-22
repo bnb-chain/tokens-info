@@ -1,13 +1,14 @@
 {
-    "asset":"TROY-9B8",
-    "assetMap":"TROY",
-    "officialSiteUrl":"https://troytrade.com/",
-    "contactEmail":"business@troytrade.com",
-    "display":true,
-    "contact":{
-        "Telegram":"https://t.me/troytrade_official",
-        "Medium":"https://medium.com/troy-trade",
-        "Youtube":"https://www.youtube.com/channel/UCKwLClDMSYXqkV9517OQdaA",
-        "Twitter":"https://twitter.com/troytrade"
-    }
+  "asset": "TROY-9B8",
+  "assetMap": "TROY",
+  "officialSiteUrl": "https://troytrade.com/",
+  "contactEmail": "business@troytrade.com",
+  "display": true,
+  "contact": {
+    "Telegram": "https://t.me/troytrade_official",
+    "Medium": "https://medium.com/troy-trade",
+    "Youtube": "https://www.youtube.com/channel/UCKwLClDMSYXqkV9517OQdaA",
+    "Twitter": "https://twitter.com/troytrade",
+    "Binance Research": "https://research.binance.com/en/projects/troy"
+  }
 }

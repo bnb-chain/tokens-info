@@ -1,15 +1,16 @@
 {
-    "asset":"IRIS-D88",
-    "assetMap":"IRIS",
-    "officialSiteUrl":"https://www.irisnet.org/",
-    "contactEmail":"operation@irisnet.org",
-    "display":true,
-    "contact":{
-        "Telegram":"https://t.me/irisnetwork",
-        "Medium":"https://medium.com/irisnet-blog",
-        "Twitter":"https://twitter.com/irisnetwork",
-        "Coinmarketcap":"https://coinmarketcap.com/currencies/irisnet/",
-        "Binance Info":"https://info.binance.com/en/currencies/irisnet",
-        "Github":"https://github.com/irisnet"
-    }
+  "asset": "IRIS-D88",
+  "assetMap": "IRIS",
+  "officialSiteUrl": "https://www.irisnet.org/",
+  "contactEmail": "operation@irisnet.org",
+  "display": true,
+  "contact": {
+    "Telegram": "https://t.me/irisnetwork",
+    "Medium": "https://medium.com/irisnet-blog",
+    "Twitter": "https://twitter.com/irisnetwork",
+    "Coinmarketcap": "https://coinmarketcap.com/currencies/irisnet/",
+    "Binance Info": "https://info.binance.com/en/currencies/irisnet",
+    "Github": "https://github.com/irisnet",
+    "Binance Research": "https://research.binance.com/en/projects/irisnet"
+  }
 }

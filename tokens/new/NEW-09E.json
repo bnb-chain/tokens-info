@@ -1,16 +1,17 @@
 {
-    "asset":"NEW-09E",
-    "assetMap":"NEW",
-    "officialSiteUrl":"https://www.newtonproject.org/",
-    "contactEmail":"contact@newtonproject.org",
-    "display":true,
-    "contact":{
-        "Telegram":"https://t.me/newtonproject",
-        "Reddit":"https://www.reddit.com/user/newtonproject",
-        "Medium":"https://medium.com/@newtonproject",
-        "Youtube":"https://www.youtube.com/channel/UCO3hbqzT5abDbVKzK5EQigg",
-        "Twitter":"https://twitter.com/newton_project",
-        "Facebook":"https://www.facebook.com/newtonproject",
-        "Coinmarketcap":"https://coinmarketcap.com/currencies/newton/"
-    }
+  "asset": "NEW-09E",
+  "assetMap": "NEW",
+  "officialSiteUrl": "https://www.newtonproject.org/",
+  "contactEmail": "contact@newtonproject.org",
+  "display": true,
+  "contact": {
+    "Telegram": "https://t.me/newtonproject",
+    "Reddit": "https://www.reddit.com/user/newtonproject",
+    "Medium": "https://medium.com/@newtonproject",
+    "Youtube": "https://www.youtube.com/channel/UCO3hbqzT5abDbVKzK5EQigg",
+    "Twitter": "https://twitter.com/newton_project",
+    "Facebook": "https://www.facebook.com/newtonproject",
+    "Coinmarketcap": "https://coinmarketcap.com/currencies/newton/",
+    "Binance Research": "https://research.binance.com/en/projects/newton"
+  }
 }

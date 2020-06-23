@@ -1,9 +1,10 @@
 {
-    "asset": "MATIC-84A",
-    "assetMap": "MATIC",
-    "officialSiteUrl": "",
-    "contactEmail": "",
-    "display": true,
-    "contact": {
-    }
+  "asset": "MATIC-84A",
+  "assetMap": "MATIC",
+  "officialSiteUrl": "",
+  "contactEmail": "",
+  "display": true,
+  "contact": {
+    "Binance Research": "https://research.binance.com/en/projects/matic-network"
+  }
 }

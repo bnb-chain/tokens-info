@@ -1,18 +1,19 @@
 {
-    "asset":"TOMOB-4BC",
-    "assetMap":"TOMOB",
-    "officialSiteUrl":"https://tomochain.com",
-    "contactEmail":"admin@tomochain.com",
-    "display":true,
-    "contact":{
-        "Telegram":"https://t.me/tomochain",
-        "Reddit":"https://www.reddit.com/r/Tomochain/",
-        "Medium":"https://medium.com/tomochain",
-        "Youtube":"https://www.youtube.com/channel/UCXZ2rmjM84qS80RCj6vQ1gw",
-        "Twitter":"https://twitter.com/TomoChainANN",
-        "Facebook":"https://www.facebook.com/tomochainofficial/",
-        "Coinmarketcap":"https://coinmarketcap.com/currencies/tomochain/",
-        "Binance Info":"https://info.binance.com/en/currencies/tomochain",
-        "Github":"https://github.com/tomochain"
-    }
+  "asset": "TOMOB-4BC",
+  "assetMap": "TOMOB",
+  "officialSiteUrl": "https://tomochain.com",
+  "contactEmail": "admin@tomochain.com",
+  "display": true,
+  "contact": {
+    "Telegram": "https://t.me/tomochain",
+    "Reddit": "https://www.reddit.com/r/Tomochain/",
+    "Medium": "https://medium.com/tomochain",
+    "Youtube": "https://www.youtube.com/channel/UCXZ2rmjM84qS80RCj6vQ1gw",
+    "Twitter": "https://twitter.com/TomoChainANN",
+    "Facebook": "https://www.facebook.com/tomochainofficial/",
+    "Coinmarketcap": "https://coinmarketcap.com/currencies/tomochain/",
+    "Binance Info": "https://info.binance.com/en/currencies/tomochain",
+    "Github": "https://github.com/tomochain",
+    "Binance Research": "https://research.binance.com/en/projects/tomochain"
+  }
 }

@@ -1,15 +1,16 @@
 {
-    "asset":"ONE-5F9",
-    "assetMap":"ONE",
-    "officialSiteUrl":"https://harmony.one/",
-    "contactEmail":"",
-    "display":true,
-    "contact":{
-        "Telegram":"https://t.me/harmony_one",
-        "Medium":"https://medium.com/harmony-one",
-        "Youtube":"https://harmony.one/youtube",
-        "Twitter":"https://twitter.com/harmonyprotocol",
-        "Facebook":"https://www.facebook.com/harmonyoneprotocol/",
-        "Github": "https://github.com/harmony-one"
-    }
+  "asset": "ONE-5F9",
+  "assetMap": "ONE",
+  "officialSiteUrl": "https://harmony.one/",
+  "contactEmail": "",
+  "display": true,
+  "contact": {
+    "Telegram": "https://t.me/harmony_one",
+    "Medium": "https://medium.com/harmony-one",
+    "Youtube": "https://harmony.one/youtube",
+    "Twitter": "https://twitter.com/harmonyprotocol",
+    "Facebook": "https://www.facebook.com/harmonyoneprotocol/",
+    "Github": "https://github.com/harmony-one",
+    "Binance Research": "https://research.binance.com/en/projects/harmony"
+  }
 }

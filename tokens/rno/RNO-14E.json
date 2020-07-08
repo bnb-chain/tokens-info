@@ -1,0 +1,17 @@
+{
+  "asset": "RNO-14E",
+  "assetMap": "RNO",
+  "officialSiteUrl": "https://earneo.io/",
+  "contactEmail": "info@earneo.io",
+  "display": true,
+  "contact": {
+    "Telegram": "https://t.me/Earneo_official",
+    "Reddit": "https://www.reddit.com/user/Earneo",
+    "Medium": "https://medium.com/@earneo",
+    "Github": "https://github.com/earneo",
+    "Twitter": "https://twitter.com/EarneoDapp",
+    "Facebook": "https://www.facebook.com/earneodapp/",
+    "instagram": "https://www.instagram.com/earneodapp/",
+    "Coinmarketcap": "https://coinmarketcap.com/currencies/earneo/",
+  }
+}

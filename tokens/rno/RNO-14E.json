@@ -1,6 +1,7 @@
 {
   "asset": "RNO-14E",
   "assetMap": "RNO",
+  "market": "ALTS",
   "officialSiteUrl": "https://earneo.io/",
   "contactEmail": "info@earneo.io",
   "display": true,

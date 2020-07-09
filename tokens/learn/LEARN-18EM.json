@@ -1,0 +1,14 @@
+{
+    "asset":"LEARN-18EM",
+    "assetMap":"LEARN",
+    "market": "ALTS",
+    "officialSiteUrl":"https://academy.binance.com",
+    "contactEmail":"academy@binance.com",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/BinanceAcademy",
+        "Youtube":"https://www.youtube.com/channel/UC0BNTTRYI7c0MUM5355zMqg",
+        "Twitter":"https://twitter.com/BinanceAcademy",
+        "Facebook":"https://www.facebook.com/BinanceAcademy/"
+    }
+}

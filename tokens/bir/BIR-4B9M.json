@@ -1,6 +1,7 @@
 {
   "asset": "BIR-4B9M",
   "assetMap": "BIR",
+  "market": "ALTS",
   "officialSiteUrl": "https://bir.dev",
   "contactEmail": "mb6226@gmail.com",
   "display": true,

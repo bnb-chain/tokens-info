@@ -1,0 +1,11 @@
+{
+    "asset":"SBC-AF0M",
+    "assetMap":"SBC",
+    "market": "ALTS",
+    "officialSiteUrl":"https://sbcmcoin.com/",
+    "contactEmail":"support@sbcmcoin.com",
+    "display":true,
+    "contact":{
+    "Twitter":"https://twitter.com/ExchangeSbcm",
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asset": "BIR-4B9M",
+  "assetMap": "BIR",
+  "market": "ALTS",
+  "officialSiteUrl": "https://bir.dev",
+  "contactEmail": "mb6226@gmail.com",
+  "display": true,
+  "contact": {
+    "Telegram": "https://t.me/mb6226",
+    "Github": "https://github.com/mb6226",
+    "Twitter": "https://twitter.com/mb6226"
+  }
+}

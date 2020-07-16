@@ -1,0 +1,15 @@
+{
+    "asset":"GIV-94E",
+    "assetMap":"GIV",
+    "market": "ALTS",
+    "officialSiteUrl":"https://cryptolocally.com/en/giv/",
+    "contactEmail":"admin@cryptolocally.com",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/cryptolocally",
+        "Medium":"https://medium.com/@cryptolocally",
+        "Youtube":"https://www.youtube.com/channel/UCbiPMMS-wW_S9A4-X7H5olw/about",
+        "Twitter":"https://twitter.com/cryptolocally?lang=en",
+        "Reddit":"https://www.reddit.com/user/CryptoLocally/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+	"asset":"SXP-CCC",
+	"assetMap":"SXP",
+	"officialSiteUrl":"https://www.swipe.io/",
+	"contactEmail":"help@swipe.io",
+	"display":true,
+	"contact":{
+		"Twitter":"https://twitter.com/SwipeWallet",
+		"Facebook":"https://www.facebook.com/Swipe/",
+		"Reddit":"https://www.reddit.com/r/Swipe_io",
+		"Instagram":"https://www.instagram.com/Swipe/",
+		"Coinmarketcap":"https://coinmarketcap.com/currencies/swipe/",
+		"Binance Info":"https://info.binance.com/en/currencies/swipe",
+		"YouTube":"https://www.youtube.com/SwipeWallet",
+		"Telegram":"https://t.me/Swipe/",
+		"LinkedIn":"https://www.linkedin.com/company/SwipeWallet/",
+		"GitHub":"https://github.com/SwipeWallet/"
+	}
+}

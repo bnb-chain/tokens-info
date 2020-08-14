@@ -1,42 +1,14 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="1894.4">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.6px Menlo; color: #1b1f22; -webkit-text-stroke: #1b1f22; background-color: #f4f6f9}
-    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.6px Menlo; color: #06214f; -webkit-text-stroke: #06214f; background-color: #f4f6f9}
-    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.6px Menlo; color: #06214f; -webkit-text-stroke: #06214f; background-color: #f4f6f9; min-height: 16.0px}
-    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.6px Menlo; color: #1b1f22; -webkit-text-stroke: #1b1f22; background-color: #f4f6f9; min-height: 16.0px}
-    span.s1 {font-kerning: none}
-    span.s2 {font-kerning: none; color: #1b1f22; -webkit-text-stroke: 0px #1b1f22}
-    span.s3 {font-kerning: none; color: #0744b8; -webkit-text-stroke: 0px #0744b8}
-    span.Apple-tab-span {white-space:pre}
-  </style>
-</head>
-<body>
-<p class="p1"><span class="s1"><span class="Apple-converted-space"> </span>{</span></p>
-<p class="p2"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s1">"asset”</span><span class="s2">:</span><span class="s1">”BHC-3E8M”</span><span class="s2">,</span></p>
-<p class="p2"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s1">"assetMap"</span><span class="s2">:</span><span class="s1">"BHC"</span><span class="s2">,</span></p>
-<p class="p2"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s1">"market"</span><span class="s2">: </span><span class="s1">“FIAT”</span><span class="s2">,</span></p>
-<p class="p2"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s1">"officialSiteUrl"</span><span class="s2">:</span><span class="s1">"https://billionhappiness.com/“</span><span class="s2">,</span></p>
-<p class="p2"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s1">"contactEmail”</span><span class="s2">:</span><span class="s1">”billionhappiness@gmail.com”</span><span class="s2">,</span></p>
-<p class="p2"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s1">"display"</span><span class="s2">:</span><span class="s3">true</span><span class="s2">,</span></p>
-<p class="p2"><span class="s2"><span class="Apple-converted-space">    </span></span><span class="s1">"contact"</span><span class="s2">:{</span></p>
-<p class="p2"><span class="s2"><span class="Apple-converted-space">        </span></span><span class="s1">"Telegram"</span><span class="s2">:</span><span class="s1">"https://t.me/BillionHappinessOfficial"</span><span class="s2">,</span></p>
-<p class="p2"><span class="s2"><span class="Apple-converted-space">        </span></span><span class="s1">“Instagram”</span><span class="s2">:</span><span class="s1">”https://instagram.com/billion_happiness”</span><span class="s2">,</span></p>
-<p class="p2"><span class="s2"><span class="Apple-converted-space">        </span></span><span class="s1">"Twitter"</span><span class="s2">:</span><span class="s1">"https://twitter.com/BHC_Happiness”</span><span class="s2">,<span class="Apple-converted-space"> <span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span></span></span></p>
-<p class="p2"><span class="s2"><span class="Apple-converted-space">        </span></span><span class="s1">"Facebook"</span><span class="s2">:</span><span class="s1">"https://www.facebook.com/BillionHappiness/“</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>}</span></p>
-<p class="p1"><span class="s1">}</span></p>
-<p class="p3"><span class="s1"></span><br></p>
-<p class="p3"><span class="s1"></span><br></p>
-<p class="p3"><span class="s1"></span><br></p>
-<p class="p3"><span class="s1"></span><br></p>
-<p class="p3"><span class="s1"></span><br></p>
-<p class="p4"><span class="s1"></span><br></p>
-</body>
-</html>
+{
+    "asset”:”BHC-3E8M”,
+    "assetMap":"BHC",
+    "market": “FIAT”,
+    "officialSiteUrl":"https://billionhappiness.com/“,
+    "contactEmail”:”billionhappiness@gmail.com”,
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/BillionHappinessOfficial",
+        “Instagram”:”https://instagram.com/billion_happiness”,
+        "Twitter":"https://twitter.com/BHC_Happiness”, 			
+        "Facebook":"https://www.facebook.com/BillionHappiness/“
+    }
+}

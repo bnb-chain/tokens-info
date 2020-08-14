@@ -4,6 +4,7 @@
 	"officialSiteUrl":"https://www.swipe.io/",
 	"contactEmail":"help@swipe.io",
 	"display":true,
+	"market": "ALTS",
 	"contact":{
 		"Twitter":"https://twitter.com/SwipeWallet",
 		"Facebook":"https://www.facebook.com/Swipe/",

@@ -1,0 +1,13 @@
+{
+    "asset":"SOUL-D11M",
+    "assetMap":"SOUL",
+    "market": "ALTS",
+    "officialSiteUrl":"https://cryptosoul.io/",
+    "contactEmail":"support@cryptosoul.io",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/CryptoSoulENG",
+        "Twitter":"https://twitter.com/CryptoSoul_",
+        "Facebook":"https://www.facebook.com/CryptoSoulGame"
+    }
+}

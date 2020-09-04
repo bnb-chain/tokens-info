@@ -1,0 +1,10 @@
+{
+  "asset": "LINK-AAD",
+  "assetMap": "LINK",
+  "officialSiteUrl": "",
+  "contactEmail": "Product@binance.com",
+  "display": true,
+  "contact": {
+    "Binance Research": "https://research.binance.com/en/projects/chainlink"
+  }
+}

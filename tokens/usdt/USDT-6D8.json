@@ -1,0 +1,11 @@
+{
+    "asset":"USDT-6D8",
+    "assetMap":"USDT",
+    "market": "FIAT",
+    "officialSiteUrl": "",
+    "contactEmail": "Product@binance.com",
+    "display": true,
+    "contact": {
+        "Binance Research": "https://research.binance.com/en/projects/usd-tether"
+    }
+}

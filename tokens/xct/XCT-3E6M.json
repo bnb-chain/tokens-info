@@ -1,0 +1,15 @@
+{
+  "asset": "XCT-3E6M",
+  "assetMap": "XCT",
+  "officialSiteUrl": "https://citron.cash",
+  "contactEmail": "info@citron.cash",
+  "display": true,
+  "contact": {
+    "Telegram": "https://t.me/citroncash",
+    "Coinmarketcap": "https://coinmarketcap.com/currencies/citron/",
+    "Medium": "https://medium.com/@citroncash",
+    "Twitter": "https://twitter.com/citroncash",
+    "Facebook": "https://www.facebook.com/citroncash/",
+    "Github": "https://github.com/citroncash"
+  }
+}

@@ -4,6 +4,7 @@
   "officialSiteUrl": "https://citron.cash",
   "contactEmail": "info@citron.cash",
   "display": true,
+  "market": "ALTS",
   "contact": {
     "Telegram": "https://t.me/citroncash",
     "Coinmarketcap": "https://coinmarketcap.com/currencies/citron/",

@@ -4,6 +4,7 @@
   "officialSiteUrl": "",
   "contactEmail": "Product@binance.com",
   "display": true,
+  "market": "ALTS",
   "contact": {
     "Binance Research": "https://research.binance.com/en/projects/cardano"
   }

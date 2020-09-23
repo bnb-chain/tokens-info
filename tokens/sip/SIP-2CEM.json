@@ -1,0 +1,14 @@
+    "asset":"SIP-2CEM",
+    "assetMap":"SIP",
+    "market": "ALTS",
+    "officialSiteUrl":"https://arbitrx.fund/",
+    "contactEmail":"info@arbitrx.fund",
+    "display":true,
+  "contact": {
+    "Telegram": "https://t.me/arbitrxfund",
+    "Medium": "https://medium.com/@arbitrxfund",
+    "Twitter": "https://twitter.com/arbitrxfund",
+    "Github": "https://github.com/arbitrxfund",
+    
+  }
+}

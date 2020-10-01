@@ -1,0 +1,14 @@
+{
+     "asset":"TBCC-BA1M",
+     "assetMap":"TBCC",
+     "market": "ALTS",
+     "officialSiteUrl":"https://tbccwallet.com/",
+     "contactEmail":"wallet@tbccwallet.com",
+     "display":true,
+     "contact":{
+         "Telegram":"https://t.me/joinchat/AAAAAFKdWltCBS0pf0ETiQ",
+         "Instagram":"https://www.instagram.com/tbcc_labs/",
+         "Twitter":"https://twitter.com/LabsTbcc",
+         "Facebook":"https://www.facebook.com/TBCC-Labs-112734580490523/"
+     }
+ }

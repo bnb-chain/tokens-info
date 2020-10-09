@@ -1,0 +1,15 @@
+{
+    "asset":"INNBC-F79M",
+    "assetMap":"INNBC",
+    "market": "ALTS",
+    "officialSiteUrl":"https://www.innovativebioresearch.com/",
+    "contactEmail":"administrator@innovativebioresearch.com",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/innovativebioresearch",
+         "Blog":"https://www.innovativebioresearch.com/blog",
+        "Youtube":"https://www.youtube.com/user/siliconfilm",
+        "Twitter":"https://twitter.com/InnBioresearch",
+        "Facebook":"https://www.facebook.com/innovativebioresearch"
+    }
+}

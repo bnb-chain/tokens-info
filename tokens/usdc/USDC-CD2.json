@@ -1,0 +1,11 @@
+{
+  "asset": "USDC-CD2",
+  "assetMap": "USDC",
+  "officialSiteUrl": "",
+  "contactEmail": "Product@binance.com",
+  "display": true,
+  "market": "FIAT",
+  "contact": {
+    "Binance Research": "https://research.binance.com/en/projects/usd-coin"
+  }
+}

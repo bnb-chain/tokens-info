@@ -1,0 +1,11 @@
+{
+  "asset": "MKR-F04",
+  "assetMap": "MKR",
+  "officialSiteUrl": "",
+  "contactEmail": "Product@binance.com",
+  "display": true,
+  "market": "ALTS",
+  "contact": {
+    "Binance Research": "https://research.binance.com/en/projects/maker"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asset": "COMP-DEE",
+  "assetMap": "COMP",
+  "officialSiteUrl": "",
+  "contactEmail": "Product@binance.com",
+  "display": true,
+  "market": "FIAT",
+  "contact": {
+    "Binance Research": "https://research.binance.com/en/projects/compound"
+  }
+}

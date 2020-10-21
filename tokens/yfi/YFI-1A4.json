@@ -1,0 +1,11 @@
+{
+  "asset": "YFI-1A4",
+  "assetMap": "YFI",
+  "officialSiteUrl": "",
+  "contactEmail": "Product@binance.com",
+  "display": true,
+  "market": "ALTS",
+  "contact": {
+    "Binance Research": "https://research.binance.com/en/projects/yearnfinance"
+  }
+}

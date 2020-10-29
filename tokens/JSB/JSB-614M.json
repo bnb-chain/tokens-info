@@ -1,6 +1,7 @@
 {
   "asset": "JSB-614M",
   "assetMap": "JSB",
+  "market": "ALTS",
   "officialSiteUrl": "https://jsb.foundation",
   "contactEmail": "support@jsb.foundation",
   "display": true,

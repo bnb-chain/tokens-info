@@ -1,0 +1,22 @@
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="48" cy="48" r="48" transform="rotate(90 48 48)" fill="url(#paint0_linear)"/>
+<ellipse rx="44" ry="44" transform="matrix(1 0 0 -1 48 48)" fill="url(#paint1_linear)"/>
+<circle r="40" transform="matrix(-4.37114e-08 -1 -1 4.37114e-08 48.1177 48.1177)" fill="white"/>
+<circle cx="48.1177" cy="48.1177" r="36" fill="#687EE3"/>
+<path d="M48.1177 60.8485V73.3871L63.5498 51.7178L48.1177 60.8485Z" fill="#D2D8EC"/>
+<path d="M48.1177 41.5004V57.6398L63.5498 48.5091L48.1177 41.5004Z" fill="#C4C8D8"/>
+<path d="M48.1177 22.9177V41.5006L63.5498 48.5094L48.1177 22.9177Z" fill="#D0D6EA"/>
+<path d="M48.1177 60.8485V73.3871L32.6855 51.7178L48.1177 60.8485Z" fill="#DEE2F6"/>
+<path d="M48.1177 41.5004V57.6398L32.6855 48.5091L48.1177 41.5004Z" fill="#D2D8EC"/>
+<path d="M48.1177 22.9177V41.5006L32.6855 48.5094L48.1177 22.9177Z" fill="#DEE2F6"/>
+<defs>
+<linearGradient id="paint0_linear" x1="48" y1="-3.8147e-06" x2="48" y2="96" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F0B90B"/>
+<stop offset="1" stop-color="#F8D33A"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="44" y1="0" x2="44" y2="88" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F0B90B"/>
+<stop offset="1" stop-color="#F8D33A"/>
+</linearGradient>
+</defs>
+</svg>

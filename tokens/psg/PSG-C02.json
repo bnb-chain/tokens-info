@@ -1,0 +1,16 @@
+{
+  "asset": "PSG-C02",
+  "assetMap": "PSG",
+  "market": "ALTS",
+  "display":true,
+  "officialSiteUrl":"https://www.chiliz.com/",
+  "contactEmail":"pr@chiliz.com",
+  "contact":{
+      "Telegram":"https://t.me/chiliz_io",
+      "Reddit":"https://www.reddit.com/r/chiliZ/",
+      "Medium":"https://medium.com/chiliz",
+      "Youtube":"https://www.youtube.com/channel/UCyRKX_JvGZw58GHvrlc-mjA",
+      "Twitter":"https://twitter.com/Chiliz",
+      "Facebook":"https://www.facebook.com/Chilizdotcom"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "asset":"ZIL",
+  "assetMap":"ZIL",
+  "market": "ALTS",
+  "officialSiteUrl":"https://www.zilliqa.com",
+  "contactEmail":"enquiry@zilliqa.com",
+  "display":true,
+  "contact":{
+      "Twitter":"https://twitter.com/zilliqa",
+      "Telegram":"https://t.me/zilliqa",
+      "Reddit":"https://www.reddit.com/r/zilliqa/",
+      "Medium":"https://blog.zilliqa.com/",
+      "Youtube": "https://www.youtube.com/channel/UCvinnFbf0u71cajoxKcfZIQ",
+      "Coinmarketcap": "https://coinmarketcap.com/currencies/zilliqa/",
+      "Linkedin": "https://www.linkedin.com/company/zilliqa/",
+      "Github": "https://github.com/Zilliqa",
+      "Binance Research": "https://research.binance.com/en/projects/zilliqa"
+  }
+}

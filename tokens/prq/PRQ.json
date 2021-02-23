@@ -1,0 +1,18 @@
+{
+    "asset":"PRQ",
+    "assetMap":"PRQ",
+    "market": "ALTS",
+    "officialSiteUrl":"https://www.parsiq.net/",
+    "contactEmail":"support@parsiq.com",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/parsiq_group",
+        "Reddit":"https://www.reddit.com/r/PARSIQ_net/",
+        "Medium":"https://medium.com/parsiq",
+        "Twitter":"https://twitter.com/parsiq_net",
+        "Discord": "https://discord.gg/RXRTx4dGwQ",
+        "Coinmarketcap": "https://coinmarketcap.com/currencies/parsiq/",
+        "Linkedin": "https://www.linkedin.com/company/parsiq/",
+        "Github": "https://github.com/parsiq"
+    }
+}

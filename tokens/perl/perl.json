@@ -1,0 +1,13 @@
+{
+  "asset": "PERL",
+  "assetMap": "PERL",
+  "officialSiteUrl": "https://perlinx.finance/",
+  "contactEmail": "contact@perlin.net",
+  "display": true,
+  "contact": {
+    "Telegram": "http://t.me/PerlinNetworkChat",
+    "Twitter": "https://twitter.com/PerlinNetwork",
+    "Github": "https://github.com/perlin-network",
+    "Medium": "https://medium.com/perlin-network"
+  }
+}

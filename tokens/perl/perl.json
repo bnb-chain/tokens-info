@@ -1,6 +1,7 @@
 {
   "asset": "PERL",
   "assetMap": "PERL",
+  "market" : "ALTS",
   "officialSiteUrl": "https://perlinx.finance/",
   "contactEmail": "contact@perlin.net",
   "display": true,

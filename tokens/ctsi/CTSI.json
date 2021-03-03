@@ -1,0 +1,16 @@
+{
+    "asset":"CTSI",
+    "assetMap":"CTSI",
+    "market": "ALTS",
+    "officialSiteUrl":"https://cartesi.io",
+    "contactEmail":"info@cartesi.io",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/cartesiproject",
+        "Reddit":"https://www.reddit.com/r/cartesi",
+        "Medium":"https://medium.com/cartesi",
+        "Youtube":"https://www.youtube.com/cartesiproject",
+        "Twitter":"https://twitter.com/cartesiproject",
+        "Facebook":"https://www.facebook.com/cartesiproject"
+    }
+}

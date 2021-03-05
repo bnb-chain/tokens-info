@@ -1,0 +1,19 @@
+{
+    "asset":"MIOTA",
+    "assetMap":"MIOTA",
+    "market": "ALTS",
+    "officialSiteUrl":"https://iota.org",
+    "contactEmail":"",
+    "display":true,
+    "contact":{
+        "Discord":"https://discord.iota.org"
+        "Twitter":"https://https://twitter.com/iota",
+		"Reddit":"https://www.reddit.com/r/iota",
+		"Instagram":"https://www.instagram.com/iotafoundation",
+		"Coinmarketcap":"https://coinmarketcap.com/currencies/iota",
+		"Binance Research":"https://research.binance.com/en/projects/iota",
+		"YouTube":"https://www.youtube.com/c/iotafoundation",
+		"LinkedIn":"https://www.linkedin.com/company/iotafoundation",
+		"GitHub":"https://github.com/iotatoken"
+    }
+}

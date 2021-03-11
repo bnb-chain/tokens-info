@@ -1,0 +1,19 @@
+{
+    "asset": "MDT-14A",
+    "assetMap": "MDT",
+    "market": "ALTS",
+    "officialSiteUrl": "https://mdt.io/",
+    "contactEmail": "token@mdt.io",
+    "display": true,
+    "contact": {
+        "Coinmarketcap": "https://coinmarketcap.com/currencies/measurable-data-token/",
+        "Binance Research": "https://research.binance.com/en/projects/measurable-data-token",
+        "Twitter": "https://twitter.com/MeasurableData",
+        "Telegram": "https://t.me/measurabledata",
+        "Medium": "https://medium.com/measurabledata",
+        "Github": "https://github.com/measurabledatatoken",
+        "Reddit": "https://www.reddit.com/r/MeasurableDataToken/",
+        "Youtube": "https://www.youtube.com/channel/UCzm2b0lFWk9OApwvRZGb1Fw",
+        "Linkedin": "https://www.linkedin.com/company/measurable/about/"
+    }
+}

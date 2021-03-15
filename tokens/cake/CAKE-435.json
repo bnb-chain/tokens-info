@@ -1,0 +1,15 @@
+{
+    "asset":"CAKE-435",
+    "assetMap":"CAKE",
+    "officialSiteUrl":"https://pancakeswap.finance/",
+    "contactEmail":"",
+    "display":true,
+    "market": "ALTS",
+    "contact":{
+        "Telegram":"https://t.me/pancakeswap",
+        "Medium":"https://pancakeswap.medium.com/",
+        "Binance Research": "https://research.binance.com/en/projects/pancakeswap",
+        "Twitter":"https://twitter.com/pancakeswap",
+        "Github": "https://github.com/pancakeswap"
+    }
+}

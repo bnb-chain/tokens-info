@@ -1,0 +1,13 @@
+{
+  "asset": "XVS-795",
+  "assetMap": "XVS",
+  "officialSiteUrl": "https://venus.io/",
+  "contactEmail": "",
+  "display": true,
+  "market": "ALTS",
+  "contact": {
+    "Binance Research": "https://research.binance.com/en/projects/venus",
+    "Github": "https://github.com/VenusProtocol/Venus-Protocol"
+
+  }
+}

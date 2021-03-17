@@ -1,0 +1,15 @@
+{
+    "asset":"BLZ",
+    "assetMap":"BLZ",
+    "market": "ALTS",
+    "officialSiteUrl":"https://bluzelle.com/",
+    "contactEmail":"neeraj@bluzelle.com",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/bluzelle",
+        "Reddit":"https://www.reddit.com/r/bluzelle",
+        "Twitter":"https://twitter.com/BluzelleHQ",
+	"Discord":"https://discord.gg/4YzRBnp",
+	"Github":"https://github.com/bluzelle"
+    }
+}

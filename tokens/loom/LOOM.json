@@ -1,0 +1,14 @@
+{
+  "asset":"LOOM",
+  "assetMap":"LOOM",
+  "market": "ALTS",
+  "officialSiteUrl":"https://loomx.io",
+  "contactEmail":"hello@loomx.io",
+  "display":true,
+  "contact":{
+      "Telegram":"https://t.me/loomnetworkdev",
+      "Reddit":"https://www.reddit.com/r/loomnetwork",
+      "Medium":"https://medium.com/loom-network",
+      "Twitter":"https://twitter.com/loomnetwork",
+  }
+}

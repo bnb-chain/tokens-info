@@ -1,0 +1,16 @@
+{
+  "asset": "SEEDS",
+  "assetMap": "SEEDS",
+  "market": "ALTS",
+  "officialSiteUrl": "https://moeda.finance",
+  "contactEmail": "contact@moeda.finance",
+  "display": true,
+  "contact": {
+    "Telegram": "https://t.me/moedaproject",
+    "Reddit": "https://www.reddit.com/r/MoedaBanking",
+    "Medium": "https://medium.com/moeda",
+    "Youtube": "https://www.youtube.com/channel/UCYKNfrimYV-goJP2Du-k7Mw",
+    "Twitter": "https://twitter.com/moedaseeds",
+    "Facebook": "https://www.facebook.com/moedaseeds"
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "asset":"COTI-CBB",
+    "assetMap":"COTI",
+    "market": "ALTS",
+    "officialSiteUrl":"https://coti.io/",
+    "contactEmail":"yair@coti.io",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/COTInetwork",
+        "Reddit":"https://www.reddit.com/r/cotinetwork/",
+        "Medium":"https://medium.com/cotinetwork",
+        "Youtube":"https://www.youtube.com/channel/UCl-2YzhaPnouvBtotKuM4DA/www.coti.io",
+        "Twitter":"https://twitter.com/COTInetwork",
+        "Facebook":"https://www.facebook.com/COTInetwork"
+    }
+}

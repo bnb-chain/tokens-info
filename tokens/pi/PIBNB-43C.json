@@ -1,0 +1,16 @@
+{
+  "asset": "PIBNB-43C",
+  "assetMap": "PI",
+  "officialSiteUrl": "https://plian.org",
+  "contactEmail": "op@plian.org",
+  "display": true,
+  "contact": {
+    "Medium": "https://medium.com/@plian_org",
+    "Twitter": "https://twitter.com/plian_org",
+    "CoinMarketCap": "https://coinmarketcap.com/currencies/pchain/",
+    "Reddit": "https://www.reddit.com/r/Pchain_Org_Official/",
+    "Discord": "https://discord.gg/9u2XVQQ8qs",
+    "Telegram": "https://t.me/pchain_org",
+    "Github": "https://github.com/pchain-org/pchain"
+  }
+}

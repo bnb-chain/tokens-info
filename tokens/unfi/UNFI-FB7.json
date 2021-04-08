@@ -1,12 +1,11 @@
 {
   "asset": "UNFI-FB7",
   "assetMap": "UNFI",
-  "officialSiteUrl": "https://unifiprotocol.com/",
+  "officialSiteUrl": "http://www.uniswapfinancing.com/ ",
   "contactEmail": "",
   "display": true,
   "market": "ALTS",
   "contact": {
-    "Binance Research": "https://research.binance.com/en/projects/unifi-protocol-dao",
-
+   
   }
 }

@@ -1,0 +1,12 @@
+{
+  "asset": "CCP-240M",
+  "assetMap": "CCP",
+  "market": "ALTS",
+  "officialSiteUrl": "http://crowdcash.me/",
+  "contactEmail": "info@crowdcash.me",
+  "display": true,
+  "contact": {
+    "Telegram": "https://t.me/joinchat/drV65hMXpDc1ZjEx",
+    "Twitter": "https://twitter.com/pay_crowd",
+  }
+}

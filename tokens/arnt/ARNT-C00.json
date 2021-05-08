@@ -1,0 +1,14 @@
+{
+  "asset": "ARNT-C00",
+  "assetMap": "ARNT",
+  "market": "ALTS",
+  "display":true,
+  "officialSiteUrl":"http://anyrent.io",
+  "contactEmail":"info@anyrent.io",
+  "contact":{
+    "Instagram":"https://www.instagram.com/anyrent.io/",
+    "Telegram":"https://t.me/anyrent_channel",
+    "Discord":"https://discord.com/invite/Bu8wvPbU6C",
+    "Youtube":"https://www.youtube.com/channel/UCc0xA4jj6CBD7rsMN-6CAfg"
+  }
+}

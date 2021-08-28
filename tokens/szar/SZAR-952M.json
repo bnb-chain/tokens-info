@@ -1,0 +1,16 @@
+{
+    "asset":"SZAR-952M",
+    "assetMap":"SZAR",
+    "market": "ALTS",
+    "officialSiteUrl":"https://zarcoin.info/",
+    "contactEmail":"info@zarcoin.info",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/zarinfo",
+        "Reddit":"https://www.reddit.com/user/zarinfo",
+        "Medium":"https://medium.com/@zarinfo",
+        "Youtube":"https://www.youtube.com/zarinfo",
+        "Twitter":"https://twitter.com/zarinfo",
+        "Facebook":"https://www.facebook.com/zarinfo/"
+    }
+}

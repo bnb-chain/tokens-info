@@ -1,0 +1,16 @@
+{
+    "asset":"Refugees Token",
+    "assetMap":"$RFG",
+    "market": "ALTS",
+    "officialSiteUrl":"https://www.refugeestoken.com/",
+    "contactEmail":"reftok@refugeestoken.com",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/refugeestokengroup",
+        "Reddit":"",
+        "Medium":"",
+        "Youtube":",
+        "Twitter":"https://twitter.com/RefugeesToken",
+        "Facebook":"https://www.facebook.com/refugeestoken"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "asset":"PEX-",
+    "assetMap":"PEX",
+    "market": "ALTS",
+    "officialSiteUrl":"https://peardao.io/",
+    "contactEmail":"",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/peardaoEN",
+        "Medium":"https://officialpeardao.medium.com",
+        "Twitter":"https://twitter.com/officialpeardao",
+        "Github": "https://github.com/peardao"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "asset":"GLOBALINVCORP",
+    "assetMap":"GINV",
+    "market": "ALTS",
+    "officialSiteUrl":"https://en.globalinvcorp.com/ginvtoken",
+    "contactEmail":"manager@globalinvcorp.com",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/GLOBALINVC",
+        "Twitter":"https://twitter.com/globalinvcorp"
+        
+    }
+}

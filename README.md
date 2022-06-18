@@ -1,4 +1,4 @@
-# Binance Chain Token Information
+# BNB Beacon Chain Token Information
 
 This repository is used as information source for [BEP2](https://github.com/binance-chain/BEPs/blob/master/BEP2.md) tokens on Binance Chain. Please upload the below information for your tokens:
 - Logo image

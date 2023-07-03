@@ -24,13 +24,13 @@ The following contacts are supported in `contact`:
 * Medium
 * Steemit
 * Coinmarketcap
-* Binance Info
+* BNB Info
 * Youtube
 * Telegram
 * Discord
 * Linkedin
 * Github
-* Binance Research
+* BNB Research
 
 > Note: you must use the right key name
 
